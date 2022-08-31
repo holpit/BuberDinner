@@ -32,3 +32,4 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mi
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll

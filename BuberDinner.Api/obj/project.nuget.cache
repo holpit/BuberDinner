@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9sOQ6JwXjD/ZAS3jKrwZOBPwXiZqKyGEKwbKeCnfOf8C3ZdYDtFVJwbIyoqfUXkBlr+LddIv5UU4l8WWvw1neA==",
+  "dgSpecHash": "/Lw3wKzsyLPZWt3iXfxNEPMeS2cSKcvRK1H5gwOr0R0vjPEV8sfbNnr7Sg+IT7WuhrYKdSEfIIXqabsjjiQ9pw==",
   "success": true,
   "projectFilePath": "C:\\Playground\\CleanArchitecture6\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ivanom\\.nuget\\packages\\erroror\\1.0.0\\erroror.1.0.0.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

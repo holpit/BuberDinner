@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pr4x1eCW79OUK5jv6wkvGqEL6eOPCPlj1nw2R4ElxSLsrN7ztzdNNPk2wP9JIPde7FfkaLvk5pBX5u6pdW+T0A==",
+  "dgSpecHash": "x/YA4Mhrq1Qzuxik7WwcNsLY5u3+WIWJh/mXYQwZApNGuuyJRRVlvUPHaRn3TNhgrhXQQ7OQAv0z6Y/COyiBBQ==",
   "success": true,
   "projectFilePath": "C:\\Playground\\CleanArchitecture6\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanom\\.nuget\\packages\\erroror\\1.0.0\\erroror.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
