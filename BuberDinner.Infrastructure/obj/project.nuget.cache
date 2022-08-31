@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S67SRU5D+OpAGOmhGuCnZ9Vf0cid2drukh1Y96pW/JJFVMa1RDRWPQyUOeR7hwhMTKA4Q3F+k5wtHfnRviQG1g==",
+  "success": true,
+  "projectFilePath": "C:\\Playground\\CleanArchitecture6\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
