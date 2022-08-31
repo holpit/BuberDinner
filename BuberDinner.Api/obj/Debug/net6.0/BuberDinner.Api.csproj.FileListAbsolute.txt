@@ -28,3 +28,7 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Bu
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
