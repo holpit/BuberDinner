@@ -30,7 +30,6 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Bu
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
@@ -43,3 +42,9 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Fl
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
