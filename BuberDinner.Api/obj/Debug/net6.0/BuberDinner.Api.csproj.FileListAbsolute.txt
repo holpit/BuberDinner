@@ -33,3 +33,6 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mi
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

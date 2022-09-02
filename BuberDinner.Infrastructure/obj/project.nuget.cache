@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Sa5Wht9iGvbqf6T5FtdHf0CwKKD+X2LueowceG2wGw0d0E7qW5czLQ5mBGjeNApEGW76QL80tsK90T5usekuKQ==",
+  "dgSpecHash": "hY030LwQDZHqdqCRHZEUW6uM3HD8HZ6/rSOwO2raFrmb/NOT8zGXL0aVn3X30qAFk9AL+0+xqHubFMEmVcqgHg==",
   "success": true,
   "projectFilePath": "C:\\Playground\\CleanArchitecture6\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanom\\.nuget\\packages\\erroror\\1.0.0\\erroror.1.0.0.nupkg.sha512",
+    "C:\\Users\\ivanom\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ivanom\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ivanom\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\ivanom\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
