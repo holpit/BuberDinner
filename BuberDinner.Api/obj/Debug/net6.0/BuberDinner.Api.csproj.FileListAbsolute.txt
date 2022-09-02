@@ -36,3 +36,6 @@ C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Er
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.Core.dll
+C:\Playground\CleanArchitecture6\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll

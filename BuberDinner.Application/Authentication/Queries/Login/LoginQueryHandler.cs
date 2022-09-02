@@ -22,6 +22,9 @@ namespace BuberDinner.Application.Authentication.Queries.Login
 
         public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery request, CancellationToken cancellationToken)
         {
+            //Solo perchè non abbiamo metodi awaitable
+            await Task.CompletedTask;
+
             if (_userRepository.GetUserByEmail(request.Email) is not User user)
             {
                 return Errors.Authentication.InvalidCredentials;

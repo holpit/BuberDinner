@@ -22,6 +22,9 @@ namespace BuberDinner.Application.Authentication.Commands.Register
 
         public async Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand request, CancellationToken cancellationToken)
         {
+            //Solo perchè non abbiamo metodi awaitable
+            await Task.CompletedTask;
+
             if (_userRepository.GetUserByEmail(request.Email) is not null)
             {
                 return Errors.User.DuplicateEmail;
